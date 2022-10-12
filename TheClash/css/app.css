@@ -1,7 +1,16 @@
+.heading {
+  font-style: emphasize;
+}
+
 .sidebar {
   width:400px; 
   padding:20px; 
   float: left; 
   background-color:#999; 
   margin-top:50px;">
+}
+
+p {
+ font-size: 15px; 
+ font-weight: lighter
 }
