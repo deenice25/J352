@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subhead{
+    font-weight: bolder;
+}
+
+.byline{
+    font-style: italic;
+    font-size: 15px;
+}
+
+.pquote {
+    float: left;
+    width: 190px;
+    font-size: 15px;
+    font-style: italic;
+    padding: 10px;
+    color: gray;
+    background-color: lightblue;
+}
+
+blockquote {
+    margin: 0;
+}
+
+.pquote p:first-letter {
+    font-size: 25px;
+    font-weight: bold;
+}
