@@ -1,0 +1,21 @@
+body{
+	font-family: 'Nova Square', cursive;
+}
+
+h1{
+	font-family: 'Nova Square', cursive;
+	text-align: center;
+}
+
+h5{
+	font-family: 'Nova Square', cursive;
+	font-weight: bold;
+}
+
+.title{
+	background-color: #FF9848;
+}
+
+.byline{
+	background-color: #FFE6C5;
+}
